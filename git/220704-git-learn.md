@@ -1,17 +1,18 @@
 # Today is...
 
 ### CSS flex 와grid 실습
-### javascript DOM API 기초와 실습
+### HTML 과 CSS 만 사용해서 인스타 만들기
 
 
 
 ## I thoght...
 
-#### 효율적인 CSS의 속성사용은 많은 연습이 필요하다
+#### flex 와 grid 연습을 많이 하자
 #### 과제가 수업진행한 거에 비해 난이도가 높다
+#### 시간이 걸려도 과제는 끝까지 해보자
 
 
 ## Tommorrow is...
 
-### 3일간 배운 내용 복습
-### DOM API 심화와 복잡한 CSS 구현
+### CSS 상대단위로 반응형 제작
+### Javascript 기초
